@@ -15,6 +15,8 @@ AX-12A x 12 ,
 
 ![prototype_1](https://github.com/user-attachments/assets/cc40eaf7-8151-4618-b395-da0a6775f186)
 
+Simple Walking with Support Polygon
+
 < Hotdog-v2 >
 
 OpenCR 1.0 , Nvidia Jetson Nano
@@ -25,3 +27,4 @@ RGB Camera
 
 ![prototype_2](https://github.com/user-attachments/assets/9f5d06aa-83ef-4a13-a868-4ff362129923)
 
+Simple Walking with Support Polygon  +  Driving w/ steering 
